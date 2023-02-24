@@ -1,8 +1,14 @@
+body{
+    /* width: 60%; */
+    text-align: center;
+}
+
 div {
     display: inline-block;
     padding: 5px;
     width: 20%;
-    height : 200px;
+    height : 150px;
     border: 2px solid palevioletred;
     margin: 20px;
 }
+
